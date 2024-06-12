@@ -4,7 +4,7 @@ Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps 
 
 ## Sponsors
 
-A huge thanks to all [our sponsors](https://inertiajs.com/sponsors) who help push Inertia.js development forward! In particular, we'd like to say a special thank you to our partners:
+A huge thanks to all [our sponsors](https://inertiajs.com) who help push Inertia.js development forward! In particular, we'd like to say a special thank you to Laravel Forge:
 
 <p>
   <a href="https://forge.laravel.com">
@@ -12,4 +12,4 @@ A huge thanks to all [our sponsors](https://inertiajs.com/sponsors) who help pus
   </a>
 </p>
 
-If you'd like to become a sponsor, please [see here](https://inertiajs.com/sponsors) for more information. 💜
+If you'd like to become a sponsor, please [see here](https://github.com/sponsors/reinink) for more information. 💜

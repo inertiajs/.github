@@ -8,7 +8,7 @@ A huge thanks to all [our sponsors](https://inertiajs.com/sponsors) who help pus
 
 <p>
   <a href="https://forge.laravel.com">
-    <img src="./sponsors/forge.svg" width="150" alt="Laravel Forge">
+    <img src="../sponsors/forge.svg" width="150" alt="Laravel Forge">
   </a>
 </p>
 
